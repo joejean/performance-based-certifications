@@ -1,5 +1,10 @@
 # performance-based-certifications
-A List of Performance-based Technical Certifications. In performance-based tests one needs to demonstrate the ability to use or apply knowledge rather than merely knowing the information. As an engineer, I personally prefer performance-based certifications over the ones that just ask multiple-choice questions :) 
+This is a list of Performance-based Technical Certifications. 
+
+In performance-based tests, one needs to demonstrate the ability to use or apply knowledge rather than merely knowing the information. So those tests typically involve solving actual problems.
+
+As an engineer, I personally prefer performance-based certification exams over the ones that just ask multiple-choice questions :)
+
 
 ## Android
 1- [Associate Android Developer](https://developers.google.com/certification/associate-android-developer#requirements) by Google
@@ -21,3 +26,6 @@ A List of Performance-based Technical Certifications. In performance-based tests
 
 ## ML (Tensorflow)
 1- [TensorFlow Developer Certificate](https://www.tensorflow.org/certificate)
+
+## Red Hat
+1- [Full list of certifications](https://www.redhat.com/en/services/certifications)
